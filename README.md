@@ -27,7 +27,7 @@ How It Works:
 3. The system classifies it into Low / Moderate / High.
 4. A GenAI module explains the result in natural language.
 
-## ▶ How to Run
+How to Run
 
 ```bash
 pip install -r requirements.txt
